@@ -1,0 +1,18 @@
+
+
+
+.container{
+  margin: center;
+}
+.greet {
+  display: flex;
+  justify-content: center;
+}
+
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+
+
